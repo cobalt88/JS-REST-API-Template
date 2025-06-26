@@ -120,4 +120,4 @@ If you do not already have MongoDB, Node.js, or other tools installed, here are 
 ## 📬 Questions or Feedback?
 
 **Author:** Vincent Teune   
-**Email:** vincent.teune@disney.com
+**Email:** vincent@vtportfolio.net
